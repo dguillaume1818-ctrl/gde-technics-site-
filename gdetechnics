@@ -572,7 +572,9 @@
 </main>
 
 <footer>
-  GDE TECHNICS — MAINTENANCE INDUSTRIELLE — © <span id="year"></span>
+  GDE TECHNICS SRL — MAINTENANCE INDUSTRIELLE — © <span id="year"></span><br>
+  BCE 1043.329.129 — TVA BE 1043.329.129<br>
+  Helkijnstraat 29, 8554 Sint-Denijs, Belgique
 </footer>
 
 <script>
